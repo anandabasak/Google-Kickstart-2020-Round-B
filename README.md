@@ -1,4 +1,4 @@
-# Kick Start 2020
+# Google Kick Start 2020
 
 This project contains my solutions for [Kick Start 2019 competition 2020])
 
